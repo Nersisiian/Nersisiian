@@ -62,10 +62,8 @@ I love **learning, sharing knowledge**, and turning ideas into real projects.
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<!-- GitHub Activity Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nersisiian&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=false&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nersisiian&show_icons=true&theme=github_dark)
 
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nersisiian&layout=compact&theme=radical&hide=jupyter%20notebook&count_private=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nersisiian&layout=compact&theme=github_dark)
