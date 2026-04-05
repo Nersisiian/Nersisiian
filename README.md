@@ -21,7 +21,8 @@ I love **learning, sharing knowledge**, and turning ideas into real projects.
 
 **Web & Apps**  
 ![REST API](https://img.shields.io/badge/REST_API-85%25-green?style=for-the-badge)  
-![Flask/Django](https://img.shields.io/badge/Flask-Django-80%25-green?style=for-the-badge)  
+![Flask](https://img.shields.io/badge/Flask-80%25-green?style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-80%25-green?style=for-the-badge)
 ![Desktop Apps](https://img.shields.io/badge/Desktop-80%25-green?style=for-the-badge)  
 
 **Data & DevOps**  
