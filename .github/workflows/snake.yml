@@ -1,20 +1,23 @@
 name: Generate GitHub Snake
 
+# Запуск каждые 12 часов и вручную
 on:
   schedule:
-    - cron: "0 */12 * * *"  # каждые 12 часов
+    - cron: '0 */12 * * *'
   workflow_dispatch:
 
 permissions:
-  contents: write  # важно для пуша SVG
+  contents: write
 
 jobs:
   generate-snake:
     runs-on: ubuntu-latest
     steps:
+      # 1️⃣ Клонируем репозиторий
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      # 2️⃣ Генерация SVG змейки
       - name: Generate snake SVG
         uses: Platane/snk/svg-only@v3
         with:
@@ -23,6 +26,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      # 3️⃣ Публикация SVG в ветку output
       - name: Push SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
