@@ -59,6 +59,18 @@ I love **learning, sharing knowledge**, and turning ideas into real projects.
 
 ---
 
+## 🧠 LLM, RAG & AI Agents
+![LLM](https://img.shields.io/badge/LLM-85%25-lightgreen?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-80%25-orange?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-80%25-blue?style=for-the-badge)
+![Qdrant](https://img.shields.io/badge/Qdrant-80%25-red?style=for-the-badge)
+![LoRA / PEFT](https://img.shields.io/badge/LoRA_PEFT-80%25-purple?style=for-the-badge)
+![Chatbots](https://img.shields.io/badge/Chatbots-85%25-lightblue?style=for-the-badge)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-85%25-green?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-80%25-orange?style=for-the-badge)
+
+---
+
 ## 🗄 Databases & DevOps
 ![Postgres](https://img.shields.io/badge/Postgres-85%25-blue?style=for-the-badge) 
 ![MySQL](https://img.shields.io/badge/MySQL-85%25-blue?style=for-the-badge) 
@@ -87,8 +99,6 @@ I love **learning, sharing knowledge**, and turning ideas into real projects.
 ![Jira](https://img.shields.io/badge/Jira-80%25-blue?style=for-the-badge) 
 ![Postman](https://img.shields.io/badge/Postman-80%25-orange?style=for-the-badge) 
 ![Git](https://img.shields.io/badge/Git-90%25-red?style=for-the-badge)
-
----
 
 ## 🏆 Highlighted Projects
 
