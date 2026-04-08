@@ -2,17 +2,19 @@ name: Generate GitHub Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *"  # обновление каждые 12 часов
   workflow_dispatch:
+
+permissions:
+  contents: write  # важно для пуша SVG
 
 jobs:
   generate-snake:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v3
+
       - name: Generate snake SVG
         uses: Platane/snk/svg-only@v3
         with:
@@ -20,7 +22,8 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - name: Push to output branch
+
+      - name: Push SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
