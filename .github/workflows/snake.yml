@@ -2,11 +2,11 @@ name: Generate GitHub Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # обновление каждые 12 часов
+    - cron: "0 */12 * * *"  # каждые 12 часов
   workflow_dispatch:
 
 permissions:
-  contents: write  # обязательно для пуша SVG
+  contents: write  # важно для пуша SVG
 
 jobs:
   generate-snake:
