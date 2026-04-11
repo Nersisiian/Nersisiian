@@ -17,6 +17,10 @@ I love **learning, sharing knowledge**, and turning ideas into real projects.
 ![Solidity](https://img.shields.io/badge/Solidity-80%25-grey?style=for-the-badge) 
 ![HTML5](https://img.shields.io/badge/HTML5-90%25-orange?style=for-the-badge) 
 ![CSS3](https://img.shields.io/badge/CSS3-85%25-blue?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.6-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-18.3-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-5.4-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ---
 
@@ -72,6 +76,8 @@ I love **learning, sharing knowledge**, and turning ideas into real projects.
 ---
 
 ## 🗄 Databases & DevOps
+![Nginx](https://img.shields.io/badge/Nginx-1.25-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-85%25-blue?style=for-the-badge) 
 ![MySQL](https://img.shields.io/badge/MySQL-85%25-blue?style=for-the-badge) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-85%25-green?style=for-the-badge) 
