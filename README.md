@@ -139,6 +139,7 @@ I love **learning, sharing knowledge**, and turning ideas into real projects.
 ## 📊 GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nersisiian&theme=vue-dark&hide_border=true&border_radius=4.7)](https://git.io/streak-stats)
 
+![Статистика](https://github-readme-stats.vercel.app/api?username=Nersisiian&show_icons=true&theme=dracula&hide_border=true) | ![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=Nersisiian&layout=compact&theme=dracula&hide_border=true)
 ---
 
 
