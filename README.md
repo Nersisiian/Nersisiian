@@ -140,6 +140,12 @@ I love **learning, sharing knowledge**, and turning ideas into real projects.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nersisiian&theme=vue-dark&hide_border=true&border_radius=4.7)](https://git.io/streak-stats)
 
 ![Статистика](https://github-readme-stats.vercel.app/api?username=Nersisiian&show_icons=true&theme=dracula&hide_border=true) | ![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=Nersisiian&layout=compact&theme=dracula&hide_border=true)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nersisiian&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Nersisiian?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Nersisiian?label=Stars&style=social" alt="GitHub Stars" />
+</p>
 ---
 
 
