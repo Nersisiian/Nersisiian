@@ -5,6 +5,13 @@ I love **learning, sharing knowledge**, and turning ideas into real projects.
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nersisiian/Nersisiian/output/github-contribution-grid-snake-dark.svg">
+  <img alt="GitHub snake" src="https://raw.githubusercontent.com/Nersisiian/Nersisiian/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
 ## 🛠 Programming Languages
 ![C](https://img.shields.io/badge/C-95%25-blue?style=for-the-badge) 
 ![C#](https://img.shields.io/badge/C%23-90%25-blue?style=for-the-badge) 
@@ -147,11 +154,5 @@ I love **learning, sharing knowledge**, and turning ideas into real projects.
   <img src="https://img.shields.io/github/stars/Nersisiian?label=Stars&style=social" alt="GitHub Stars" />
 </p>
 ---
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nersisiian/Nersisiian/output/github-contribution-grid-snake-dark.svg">
-  <img alt="GitHub snake" src="https://raw.githubusercontent.com/Nersisiian/Nersisiian/output/github-contribution-grid-snake.svg">
-</picture>
 
 
